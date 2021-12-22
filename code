@@ -1,0 +1,6 @@
+E=int(input())
+e=set(input().split())
+F=int(input())
+f=set(input().split())
+d= e-f
+print(len(d))
